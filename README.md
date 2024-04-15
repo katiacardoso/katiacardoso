@@ -1,4 +1,4 @@
-                                          Hi there 👋 Welcome to my Github.
+         Hi there 👋 Welcome to my Github.
  
  I'm a data analyst and passionate about art. I am currently exploring Python with a focus on artificial intelligence and NLP, Excel and Power BI
 
