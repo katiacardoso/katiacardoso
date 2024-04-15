@@ -5,12 +5,9 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/katiacardosos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<img src="https://komarev.com/ghpvc/?username=katiacardoso&color=blue&style=flat-square&label=Profile+Views" />
 </p>
 
-</p>
-
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=katiacardoso&color=blue&style=flat-square&label=Profile+Views" />
 </p>
 
   
